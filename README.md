@@ -3,7 +3,7 @@ Really simple tryout.
 
 ## Start
 ```
-pip install playwright
+pip install playwright pytest
 ```
 ```
 playwright install
